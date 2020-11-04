@@ -15,6 +15,7 @@
 ### Languages and Tools:
 <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/googlecloud.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />
 
+
 [![Twitter: sagnik123451](https://img.shields.io/twitter/follow/sagnik123451?style=social)](https://twitter.com/sagnik123451)
 [![GitHub Sagnik220](https://img.shields.io/github/followers/Sagnik220?label=follow&style=social)](https://github.com/Sagnik220)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Sagnik220-2648ff?style=flat-square&logo=google-chrome)](https://sagnik220.github.io/cashmoney/)
