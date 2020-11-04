@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my chatbot project!
 - 💬 Ask me about my hobbies!😜
-- 📫 How to reach me:[LinkedIn-Sagnik Mukherjee](https://www.linkedin.com/in/sagnik-mukherjee-23b21b16a/)
+- 📫 How to reach me:[LinkedIn-Sagnik Mukherjee](https://www.linkedin.com/in/sagnik-mukherjee-23b21b16a/) G-mail-sagnik2207@gmail.com
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:County Meme Dealer!🤣
 
