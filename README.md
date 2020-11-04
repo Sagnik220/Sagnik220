@@ -1,4 +1,5 @@
 ### Hola, I'm Sagnik Mukherjee! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagnik220&label=Views&color=blue&style=plastic" alt="Sagnik220" /> </p>
 
 ### About Me:
 - 🔭 I’m currently working on a chatbot with RASA framework
