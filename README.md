@@ -17,7 +17,7 @@
 
 [![Twitter: sagnik123451](https://img.shields.io/twitter/follow/sagnik123451?style=social)](https://twitter.com/sagnik123451)
 [![GitHub Sagnik220](https://img.shields.io/github/followers/Sagnik220?label=follow&style=social)](https://github.com/Sagnik220)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Sagnik.live-2648ff?style=flat-square&logo=google-chrome)](https://sagnik220.github.io/cashmoney/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Sagnik220-2648ff?style=flat-square&logo=google-chrome)](https://sagnik220.github.io/cashmoney/)
 
 ### Stats:
 ![Sagnik's github stats](https://github-readme-stats.vercel.app/api?username=Sagnik220&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik220&layout=compact)](https://github.com/Sagnik220/github-readme-stats)
