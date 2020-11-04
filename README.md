@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagnik220&label=Views&color=blue&style=plastic" alt="Sagnik220" /> </p>
 
 ### About Me:
-- 🔭 I’m currently working on a chatbot with RASA framework
+- 🔭 I’m currently working on myself
 - 💪🏻 5+yrs of Python!
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects
