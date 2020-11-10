@@ -3,7 +3,7 @@
 
 ### About Me:
 - 🔭 I’m currently working on myself
-- 💪🏻 5+yrs of Python!
+- 💪🏻 Python
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my chatbot project!
