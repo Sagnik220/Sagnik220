@@ -6,7 +6,7 @@
 - 💪🏻 Python
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with my chatbot project!
+- 🤔 I’m looking for help with my project's!
 - 💬 Ask me about my hobbies!😜
 - 📫 How to reach me:[LinkedIn-Sagnik Mukherjee](https://www.linkedin.com/in/sagnik-mukherjee-23b21b16a/) G-mail-sagnik2207@gmail.com
 - 😄 Pronouns:He/His
