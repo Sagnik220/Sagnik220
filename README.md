@@ -22,3 +22,5 @@
 
 ### Stats:
 ![Sagnik's github stats](https://github-readme-stats.vercel.app/api?username=Sagnik220&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik220&layout=compact)](https://github.com/Sagnik220/github-readme-stats)
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik220" alt="Sagnik220" /></p>
