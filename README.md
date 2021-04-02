@@ -5,7 +5,7 @@
 
 ### About Me:
 - 🔭 I’m currently working on myself
-- 💪🏻 Python<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik220" alt="Sagnik220" /></p>
+- Lanuages- C/C++,Python<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik220" alt="Sagnik220" /></p>
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my project's!
