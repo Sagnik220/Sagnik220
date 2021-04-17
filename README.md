@@ -13,8 +13,15 @@
 - 📫 How to reach me:[LinkedIn-Sagnik Mukherjee](https://www.linkedin.com/in/sagnik-mukherjee-23b21b16a/) G-mail-sagnik2207@gmail.com
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:County Meme Dealer!🤣
-### Languages and Tools:
-<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/googlecloud.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />
+### Languages:
+<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />
+
+
+### Tools:
+<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/googlecloud.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" />
+
+### Libraries:
+<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/scikit-learn.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/keras.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/numpy.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pandas.svg" />
 
 
 [![Twitter: sagnik123451](https://img.shields.io/twitter/follow/sagnik123451?style=social)](https://twitter.com/sagnik123451)
