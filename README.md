@@ -22,7 +22,7 @@
 
 
 ### Libraries & Frameworks:
-<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/scikit-learn.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/keras.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/numpy.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pandas.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/scipy.svg" />
+<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/scikit-learn.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/keras.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/numpy.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pandas.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/scipy.svg" />
 
 
 
