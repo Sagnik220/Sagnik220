@@ -16,13 +16,12 @@
 ### Languages:
 <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
 
+### Libraries & Frameworks:
+<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/scikit-learn.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/keras.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/numpy.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pandas.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/scipy.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/opencv.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" />
+
 
 ### Tools:
-<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/googlecloud.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/heroku.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/netlify.svg" />
-
-
-### Libraries & Frameworks:
-<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/scikit-learn.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/keras.svg" />  <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/numpy.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/pandas.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/scipy.svg" />
+<img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/googlecloud.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/heroku.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/netlify.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/amazonaws.svg" />
 
 
 
