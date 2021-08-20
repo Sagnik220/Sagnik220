@@ -30,5 +30,26 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-Sagnik220-2648ff?style=flat-square&logo=google-chrome)](https://sagnik220.github.io/cashmoney/)
 
 ### Stats:
-![Sagnik's github stats](https://github-readme-stats.vercel.app/api?username=Sagnik220&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik220&layout=compact)](https://github.com/Sagnik220/github-readme-stats)
+
+ <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sagnik220&theme=darkhub">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik220&theme=merko">
+</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sagnik220&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik220&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
+   </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagnik220&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+   </tr>
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Sagnik220&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
+  </td>
+  </tr>
+</table>
 
