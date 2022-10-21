@@ -29,8 +29,6 @@
 <a href=""> <img src="https://cdn.svgporn.com/logos/numpy.svg" alt="numpy" width="40" height="40"/> </a>
 <a href=""> <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href=""> <img src="https://cdn.svgporn.com/logos/pytorch.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href=""> <img src="https://vuejs.org/images/logo.svg" alt="vue" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://aws.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
